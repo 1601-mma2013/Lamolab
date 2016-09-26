@@ -231,46 +231,43 @@ Shoppers agreed that they sometimes had a hard time finding products that they w
 
 Shoppers
 
-| NAME       | SARAH AMANDA |
-| ---------- | ------------ |
-| GENDER     | FEMALE       |
-| OCCUPATION | TEACHER      |
-| AGE        | 28           |
-| STATUS     | MARRIED      |
+| NAME       | IKREY MOHAMMAD |
+| ---------- | -------------- |
+| GENDER     | MALE           |
+| OCCUPATION | BUSINSESSMAN   |
+| AGE        | 35             |
+| STATUS     | MARRIED        |
 
-Bio: Sarah is a married woman and she has one child, a son. She is 28 years old and works as a teacher at local school. Sarah loves to shop alone without having her husband and son following her. 
+Bio: Ikrey is a married man and he has a son. he is 35 years old and he runs a big restaurant. Ikrey and his son sharing a same passion about football and they love watching football together.
 
 1. Goals
-   - To get her shopping done.
+   - To provide the latest result and football highlight.
 2. Patterns 
-   - She like to take her time going through a store. Same as The Lingerer.
+   - He like to watch live football at home with his son but he always miss the match.
 3. Attitudes
-   - Would rather use her smartphones in a store than ask an associate for help.
-   - She loves to shop alone.
-   - Won't hesitate to buy other alternatives to get her shopping done (finding substitute products)
+   - Sleep early because he's too busy to run his restaurant in the morning.
+   - Won't hesitate to buy other alternatives to statisfy his passion 
 4. Environments
-   - Retail store (Cold Storage)
+   - Home and restaurant.
 5. Tools
-   - Smartphones.
+   - Smartphones
 6. Challenges
-   - Finding products on the crowded shelves of the store. 
+   - Miss live games because he has to sleep early for his work. 
 
 ------
 
 Clients
 
-| NAME       | DAVID TEOH  |
-| ---------- | ----------- |
-| GENDER     | MALE        |
-| OCCUPATION | STORE OWNER |
-| AGE        | 52          |
-| STATUS     | MARRIED     |
+| NAME       | NOPAL NATSIR    |
+| ---------- | --------------- |
+| GENDER     | MALE            |
+| OCCUPATION | STADIUM MANAGER |
+| AGE        | 45              |
+| STATUS     | MARRIED         |
 
-Bio: David Teoh is a married man. He owns a retail inside a shopping mall called Cold Storage.
+Bio: Nopal Natsir is a married man. He is a manager at Stadium Bukit Jalil. 
 
-1. Goals
-
-   - To get more sales
+1. - To get more sales
 
 2. Patterns 
 
@@ -282,7 +279,7 @@ Bio: David Teoh is a married man. He owns a retail inside a shopping mall called
 
 4. Environments
 
-   - Retail store (Cold Storage)
+   - Stadium
 
 5. Tools
 
@@ -298,76 +295,17 @@ Bio: David Teoh is a married man. He owns a retail inside a shopping mall called
 
 ### a. Context Scenarios
 
-1. While getting ready in the morning, Sarah open the Odigós app on her smartphone to create a shopping checklist on what things she need to buy later on that day.
-2. After she finished her class, she drove to the Sunway Pyramid shopping mall and after she parked her car and entered the mall, she took out her smartphones and open Odigós to refer back her shopping checklist.
-3. She walked to Cold Storage to buy the things that she created on the shopping checklist. She ticks on the shopping checklist after she grabbed the things that she wants to buy from Cold Storage.
-4. After she finished grabbing her things from Cold Storage, Sarah noticed on her phone that her son, Jackie just texted her asking her to buy Gatsby Moving Rubber purple color. She types the product name in the Odigós app search bar to find the product.
-5. After she selected the correct product inside the app, Odigós will start to showing direction towards the product shelf on her smartphone screen by using her smartphone camera.
-6. She walks to the location that has been set by Odigós and when she arrived at the store shelf where the product is stored and picks it up.
-7. After that she double checked her checklist on the Odigós and then proceed to the counter to complete the payment.
-8. Then she walk out from the store and went back home. Her son is very happy because Sarah managed to buy the product that he requested.
+1. ​
 
 - ### b. Requirements
 
-  Describe necessary capabilities of the product (Define requirement)
-
-  1. Functional and data needs
-
-     (user's information, why user need this)
-
-     - Data requirements :
-
-      Personas' data needs are the objects and information that must be represented in the
-      system. Using the semantics just described, it is often useful to think of data requirements
-      as the objects and adjectives related to those objects. Common examples include
-      accounts, people, addresses, documents, messages, songs, and images, as well as attributes
-      of those, such as status, dates, size, creator, and subject.
-     Functional requirements :
-
-     - Functional needs are the operations or actions that need to be performed on the system's
-        objects and that typically are translated into interface controls. These can be thought of
-        as the product's actions. Functional needs also define places or containers where objects
-        or information in the interface must be displayed. (These clearly are not actions in and of
-        themselves but usually are suggested by actions.)
-
-  - user mental models
-  - design imperatives
-  - product vision
-  - business requirements / Business requirements can include stakeholder priorities, development timelines,
-    budgetary and resource constraints, regulations and legal considerations, pricing
-    structures, and business models.
-  - Technology
-  - Augemented Reality
-  - WiFi Positioning System
+  - ​
 
 ## 2. Design Framework
 
 ### a. Elements
 
-Deﬁne manifestations of information and functionality
 
-1. Information
-   1. form factor
-   2. posture
-   3. input method
-2. functional and data elements
-   - information
-   - functions
-   - mechanisms
-   - actions
-   - domain object models
 
 ### b. Framework
 
-Design overall structure of user experience
-
-1. Sketch
-   1. if your project is a design product
-      1. Your sketch must be a wireframe.
-   2. if your project is a installation project
-      1. Your sketch must be a installation sketch.
-   3. Must have
-      1. groupings and hierarchy
-      2. Territories of each functional & design elements
-      3. Arrangements of containers & components
-2. Key path Scenario

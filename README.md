@@ -1,5 +1,3 @@
-# Lamolab
-
 ## Group Members
 
 - Muhammad Asyraf Bin Roslin 1132702752
@@ -50,7 +48,7 @@
 
        ​
 
-   -  **Thescore**-http://www.thescore.com/trending
+   - **Thescore**-http://www.thescore.com/trending
 
      Pros
 
@@ -147,9 +145,9 @@
 
    ​
 
-   ![alt tag](http://i64.tinypic.com/2qlsnis.jpg)
+    ![AGE-01](C:\Users\user 1\Desktop\Interactive Media\IMAGES\AGE-01.jpg)
 
-   ![alt tag](http://i63.tinypic.com/2pop2m9.jpg)
+    ![PERCENTAGE-01](C:\Users\user 1\Desktop\Interactive Media\IMAGES\PERCENTAGE-01.jpg)
 
    ​
 
@@ -165,7 +163,7 @@
 
    ​
 
-   ![alt tag](http://i67.tinypic.com/27yzbzd.jpg)
+    ![FANS BEHAVIOUR-01](C:\Users\user 1\Desktop\Interactive Media\IMAGES\FANS BEHAVIOUR-01.jpg)
 
    This shows that majority of shoppers who participated in the survey enjoys taking their time shopping inside a retail stores. 
 

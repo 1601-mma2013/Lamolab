@@ -251,6 +251,7 @@ Bio: Nopal Natsir is a married man. He is a manager at Stadium Bukit Jalil.
   - ​
 
 ## 2. Design Framework
+![alttag]http://i64.tinypic.com/29bhe8z.jpg
 
 ### a. Elements
 

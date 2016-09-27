@@ -203,50 +203,32 @@ Bio: Ikrey is a married man and he has a son. he is 35 years old and he runs a b
 6. Challenges
    - Miss live games because he has to sleep early for his work. 
 
-------
-
-Clients
-
-| NAME       | NOPAL NATSIR    |
-| ---------- | --------------- |
-| GENDER     | MALE            |
-| OCCUPATION | STADIUM MANAGER |
-| AGE        | 45              |
-| STATUS     | MARRIED         |
-
-Bio: Nopal Natsir is a married man. He is a manager at Stadium Bukit Jalil. 
-
-1. - To get more sales
-
-2. Patterns 
-
-   ​
-
-3. Attitudes
-
-   ​
-
-4. Environments
-
-   - Stadium
-
-5. Tools
-
-   - Computers 
-
-6. Challenges
-
-   - ​
+-----
 
 # II. Synthesis
 
 ## 1. Requirements Definition
 
 ### a. Context Scenarios
+ Ikrey starts his daily routine by waking up early in the morning and get dressed for work. As an owner of a restaurant he need to make sure that everything is in order and ready for his customers. Ikrey really loves football. Because of his work, he could not stay up late to watch his favorite team match. Usually he gets all the updates from the newspaper, but not all the info that he wants are there. Thus it makes him less interest in football. While he continues his reading, he finds out there is an application related to football that simply can solve his problem. This can help him tracking all the things that he missed in and did not get in the newspaper. There are features such as live score, highlight match, transfer window, hot news, online merchandise shopping and e-ticket. These features make him participates indirectly and gets all the updates in detail without delaying any time.
 
 1. ​
 
 - ### b. Requirements
+Describe necessary capabilities of the application
+
+	i. Functional and data needs
+
+	   (user's information, why user need this)
+
+
+
+- Data requirements :
+
+Personas' data needs for store information of the users such as accounts, social network, addresses, favorite football team and etc.
+
+- Functional Requirements :
+  Functional needs are the operations that translated into interface controls. Its define where can the user interact with the apps for finding what they needed.
 
   - ​
 

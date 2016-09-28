@@ -145,9 +145,10 @@
 
    ​
 
-    ![AGE-01](C:\Users\user 1\Desktop\Interactive Media\IMAGES\AGE-01.jpg)
+    ![alttag](http://i64.tinypic.com/2ltrewk.jpg)
 
-    ![PERCENTAGE-01](C:\Users\user 1\Desktop\Interactive Media\IMAGES\PERCENTAGE-01.jpg)
+    ![alttag](http://i66.tinypic.com/2hn6u6c.jpg)
+
 
    ​
 
@@ -163,7 +164,8 @@
 
    ​
 
-    ![FANS BEHAVIOUR-01](C:\Users\user 1\Desktop\Interactive Media\IMAGES\FANS BEHAVIOUR-01.jpg)
+    ![alttag](http://i65.tinypic.com/npmhk6.jpg)
+
 
    This shows that majority of shoppers who participated in the survey enjoys taking their time shopping inside a retail stores. 
 

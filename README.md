@@ -242,3 +242,4 @@ Personas' data needs for store information of the users such as accounts, social
 
 
 ### b. Framework
+![alttag](http://i64.tinypic.com/2s0dz05.jpg)
